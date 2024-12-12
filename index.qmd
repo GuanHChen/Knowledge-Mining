@@ -1,70 +1,64 @@
----
-title: "Knowledge Mining Assignment Catalog"
-subtitle: Guides To Driving Informed Decision-Making
----
+
 
 ```{=html}
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
+<div class="column-page">
+<div style="text-align: left; margin-bottom: 60px;">
+  <h1>Knowledge Mining Project Catalog</h1>
+</div>
+
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; width: 100%;">
 
 <div style="text-align: center;">
 <a href="6323/assignment1.qmd">
-<img src="thumbnail/6323a1tn.png" alt="Assignment 1" style="width:100%; border-radius: 15px;">
+<img src="thumbnail/p1.png" style="width:100%; border-radius: 15px;">
 </a>
 </div>
 
 <div style="text-align: center;">
 <a href="6323/assignment2.qmd">
-<img src="thumbnail2.png" alt="Assignment 2" style="width:100%">
-<p>Assignment 2</p>
+<img src="thumbnail/p2.png" style="width:100%; border-radius: 15px;">
 </a>
 </div>
 
 <div style="text-align: center;">
 <a href="assignment3.html">
-<img src="thumbnail3.png" alt="Assignment 3" style="width:100%">
-<p>Assignment 3</p>
+<img src="thumbnail3.png" style="width:100%; border-radius: 15px;">
 </a>
 </div>
 
 <div style="text-align: center;">
 <a href="assignment4.html">
-<img src="thumbnail4.png" alt="Assignment 4" style="width:100%">
-<p>Assignment 4</p>
+<img src="thumbnail4.png" style="width:100%; border-radius: 15px;">
 </a>
 </div>
 
 <div style="text-align: center;">
 <a href="assignment5.html">
-<img src="thumbnail5.png" alt="Assignment 5" style="width:100%">
-<p>Assignment 5</p>
+<img src="thumbnail5.png" style="width:100%; border-radius: 15px;">
 </a>
 </div>
 
 <div style="text-align: center;">
 <a href="assignment6.html">
-<img src="thumbnail6.png" alt="Assignment 6" style="width:100%">
-<p>Assignment 6</p>
+<img src="thumbnail6.png" style="width:100%; border-radius: 15px;">
 </a>
 </div>
 
 <div style="text-align: center;">
 <a href="assignment7.html">
-<img src="thumbnail7.png" alt="Assignment 7" style="width:100%">
-<p>Assignment 7</p>
+<img src="thumbnail7.png" style="width:100%; border-radius: 15px;">
 </a>
 </div>
 
 <div style="text-align: center;">
 <a href="assignment8.html">
-<img src="thumbnail8.png" alt="Assignment 8" style="width:100%">
-<p>Assignment 8</p>
+<img src="thumbnail8.png" style="width:100%; border-radius: 15px;">
 </a>
 </div>
 
 <div style="text-align: center;">
 <a href="assignment9.html">
-<img src="thumbnail9.png" alt="Assignment 9" style="width:100%">
-<p>Assignment 9</p>
+<img src="thumbnail9.png" style="width:100%; border-radius: 15px;">
 </a>
 </div>
 

@@ -9,56 +9,50 @@
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; width: 100%;">
 
 <div style="text-align: center;">
-<a href="6323/assignment1.qmd">
-<img src="thumbnail/p1.png" style="width:100%; border-radius: 15px;">
+<a href="6323/pt1.qmd">
+<img src="thumbnail/1.png" style="width:100%; border-radius: 15px;">
 </a>
 </div>
 
 <div style="text-align: center;">
-<a href="6323/assignment2.qmd">
-<img src="thumbnail/p2.png" style="width:100%; border-radius: 15px;">
+<a href="6323/pt2.qmd">
+<img src="thumbnail/2.png" style="width:100%; border-radius: 15px;">
 </a>
 </div>
 
 <div style="text-align: center;">
-<a href="assignment3.html">
-<img src="thumbnail3.png" style="width:100%; border-radius: 15px;">
+<a href="6323/pt3.qmd">
+<img src="thumbnail/3.png" style="width:100%; border-radius: 15px;">
 </a>
 </div>
 
 <div style="text-align: center;">
-<a href="assignment4.html">
-<img src="thumbnail4.png" style="width:100%; border-radius: 15px;">
+<a href="6323/pt4.qmd">
+<img src="thumbnail/4.png" style="width:100%; border-radius: 15px;">
 </a>
 </div>
 
 <div style="text-align: center;">
-<a href="assignment5.html">
-<img src="thumbnail5.png" style="width:100%; border-radius: 15px;">
+<a href="6323/pt5.qmd">
+<img src="thumbnail/5.png" style="width:100%; border-radius: 15px;">
 </a>
 </div>
 
 <div style="text-align: center;">
-<a href="assignment6.html">
-<img src="thumbnail6.png" style="width:100%; border-radius: 15px;">
+<a href="6323/pt6.qmd">
+<img src="thumbnail/6.png" style="width:100%; border-radius: 15px;">
 </a>
 </div>
 
 <div style="text-align: center;">
-<a href="assignment7.html">
-<img src="thumbnail7.png" style="width:100%; border-radius: 15px;">
+<a href="6323/eda.qmd">
+<img src="thumbnail/eda.png" style="width:100%; border-radius: 15px;">
 </a>
 </div>
 
 <div style="text-align: center;">
-<a href="assignment8.html">
-<img src="thumbnail8.png" style="width:100%; border-radius: 15px;">
-</a>
-</div>
-
-<div style="text-align: center;">
-<a href="assignment9.html">
-<img src="thumbnail9.png" style="width:100%; border-radius: 15px;">
+<a href="6323/uml.qmd">
+<img src="thumbnail/ml.png" style="width:100%; border-radius: 15px;">
 </a>
 </div>
 
